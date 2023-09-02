@@ -17,6 +17,7 @@ The QR Code Utility is a versatile tool for generating and sharing QR codes for 
 2. Install qrcode package
    ```terminal
    pip install qrcode
+   pip install pillow
 
    
 ## Contributing
